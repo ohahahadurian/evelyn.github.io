@@ -30,8 +30,9 @@ h3 {
   font-weight: normal;
 }
 
-p {
+h5,p {
   line-height: 2;
+  font-family: "Quattrocento Sans", sans-serif;
 }
 
 hr {
